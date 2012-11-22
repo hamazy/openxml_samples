@@ -67,17 +67,18 @@
       <w:tblPr>
 	<w:tblBorders>
 	  <w:top w:val="single" w:sz="12" />
-	  <w:bottom w:val="single" w:sz="12" />
 	  <w:left w:val="single" w:sz="12" />
+	  <w:bottom w:val="single" w:sz="12" />
 	  <w:right w:val="single" w:sz="12" />
 	  <w:insideH w:val="single" w:sz="8" />
 	  <w:insideV w:val="single" w:sz="8" />
 	</w:tblBorders>
       </w:tblPr>
+      <w:tblGrid />
       <w:tr>
 	<w:tc>
 	  <w:tcPr>
-	    <w:shd w:val="clear" w:color="auto" w:fill="gray" />
+	    <w:shd w:val="clear" w:color="auto" w:fill="808080" />
 	  </w:tcPr>
 	  <w:p>
 	    <w:r>
@@ -91,7 +92,7 @@
 	<w:tc>
 	  <w:tcPr>
 	    <w:gridSpan w:val="2" />
-	    <w:shd w:val="clear" w:color="auto" w:fill="gray" />
+	    <w:shd w:val="clear" w:color="auto" w:fill="808080" />
 	  </w:tcPr>
 	  <w:p>
 	    <w:r>
@@ -193,8 +194,8 @@
       <w:pPr>
 	<w:pBdr>
 	  <w:top w:val="single" w:color="808080" w:sz="6" w:space="2" />
-	  <w:bottom w:val="single" w:color="808080" w:sz="6" w:space="2" />
 	  <w:left w:val="single" w:color="808080" w:sz="6" w:space="2" />
+	  <w:bottom w:val="single" w:color="808080" w:sz="6" w:space="2" />
 	  <w:right w:val="single" w:color="808080" w:sz="6" w:space="2" />
 	</w:pBdr>
 	<w:shd w:val="clear" w:color="auto" w:fill="F0F0F0" />
@@ -207,8 +208,8 @@
       <w:pPr>
 	<w:pBdr>
 	  <w:top w:val="single" w:color="808080" w:sz="6" w:space="2" />
-	  <w:bottom w:val="single" w:color="808080" w:sz="6" w:space="2" />
 	  <w:left w:val="single" w:color="808080" w:sz="6" w:space="2" />
+	  <w:bottom w:val="single" w:color="808080" w:sz="6" w:space="2" />
 	  <w:right w:val="single" w:color="808080" w:sz="6" w:space="2" />
 	</w:pBdr>
 	<w:shd w:val="clear" w:color="auto" w:fill="F0F0F0" />

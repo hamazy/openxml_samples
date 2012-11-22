@@ -14,13 +14,13 @@
     <w:name w:val="author" />
     <w:basedOn w:val="Normal" />
     <w:next w:val="Normal" />
+    <w:pPr>
+      <w:jc w:val="right" />
+    </w:pPr>
     <w:rPr>
       <w:rFonts w:ascii="Arial" w:eastAsia="ＭＳ Ｐゴシック" />
       <w:b w:val="true" />
       <w:sz w:val="36" />
     </w:rPr>
-    <w:pPr>
-      <w:jc w:val="right" />
-    </w:pPr>
   </w:style>
 </w:styles>
