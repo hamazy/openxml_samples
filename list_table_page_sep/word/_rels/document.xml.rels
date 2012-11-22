@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+  <Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles"
+		Target="/word/styles.xml"
+		Id="R7f2267994cf547fc" />
+  <Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+		Target="/media/image.jpg"
+		Id="Rac9e0675e0d74822" />
+  <Relationship Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering"
+		Target="/word/numbering.xml"
+		Id="R4bd0bde11ebe478d" />
+</Relationships>

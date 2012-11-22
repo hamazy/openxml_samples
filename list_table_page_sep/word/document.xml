@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+  <w:body>
+    <w:p>
+      <w:pPr>
+	<w:pStyle w:val="title" />
+      </w:pPr>
+      <w:r>
+	<w:t>This is theドキュメントのタイトル.</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+	<w:pStyle w:val="author" />
+	<w:sectPr>
+	  <w:pgSz w:w="11907" w:h="16839" />
+	</w:sectPr>
+      </w:pPr>
+      <w:r>
+	<w:t>名無しのJohn</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:r>
+	<w:drawing>
+	  <wp:inline distT="0" distB="0" distL="0" distR="0" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing">
+	    <wp:extent cx="990000" cy="792000" />
+	    <wp:effectExtent l="0" t="0" r="0" b="0" />
+	    <wp:docPr id="1" name="Picture 1" />
+	    <wp:cNvGraphicFramePr>
+	      <a:graphicFrameLocks noChangeAspect="1" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" />
+	    </wp:cNvGraphicFramePr>
+	    <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+	      <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+		<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+		  <pic:nvPicPr>
+		    <pic:cNvPr id="0" name="kuroneko.jpg" />
+		    <pic:cNvPicPr />
+		  </pic:nvPicPr>
+		  <pic:blipFill>
+		    <a:blip r:embed="Rac9e0675e0d74822" cstate="print" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+		      <a:extLst>
+			<a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}" />
+		      </a:extLst>
+		    </a:blip>
+		    <a:stretch>
+		      <a:fillRect />
+		    </a:stretch>
+		  </pic:blipFill>
+		  <pic:spPr>
+		    <a:xfrm>
+		      <a:off x="0" y="0" />
+		      <a:ext cx="990000" cy="792000" />
+		    </a:xfrm>
+		    <a:prstGeom prst="rect">
+		      <a:avLst />
+		    </a:prstGeom>
+		  </pic:spPr>
+		</pic:pic>
+	      </a:graphicData>
+	    </a:graphic>
+	  </wp:inline>
+	</w:drawing>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+	<w:tblBorders>
+	  <w:top w:val="single" w:sz="12" />
+	  <w:bottom w:val="single" w:sz="12" />
+	  <w:left w:val="single" w:sz="12" />
+	  <w:right w:val="single" w:sz="12" />
+	  <w:insideH w:val="single" w:sz="8" />
+	  <w:insideV w:val="single" w:sz="8" />
+	</w:tblBorders>
+      </w:tblPr>
+      <w:tr>
+	<w:tc>
+	  <w:tcPr>
+	    <w:shd w:val="clear" w:color="auto" w:fill="gray" />
+	  </w:tcPr>
+	  <w:p>
+	    <w:r>
+	      <w:rPr>
+		<w:b w:val="true" />
+	      </w:rPr>
+	      <w:t>a1</w:t>
+	    </w:r>
+	  </w:p>
+	</w:tc>
+	<w:tc>
+	  <w:tcPr>
+	    <w:gridSpan w:val="2" />
+	    <w:shd w:val="clear" w:color="auto" w:fill="gray" />
+	  </w:tcPr>
+	  <w:p>
+	    <w:r>
+	      <w:rPr>
+		<w:b w:val="true" />
+	      </w:rPr>
+	      <w:t>a2</w:t>
+	    </w:r>
+	  </w:p>
+	</w:tc>
+      </w:tr>
+      <w:tr>
+	<w:tc>
+	  <w:p>
+	    <w:r>
+	      <w:t>b1</w:t>
+	    </w:r>
+	  </w:p>
+	</w:tc>
+	<w:tc>
+	  <w:tcPr>
+	    <w:vMerge w:val="restart" />
+	  </w:tcPr>
+	  <w:p>
+	    <w:r>
+	      <w:t>b2</w:t>
+	    </w:r>
+	  </w:p>
+	</w:tc>
+	<w:tc>
+	  <w:p>
+	    <w:r>
+	      <w:t>b2</w:t>
+	    </w:r>
+	  </w:p>
+	</w:tc>
+      </w:tr>
+      <w:tr>
+	<w:tc>
+	  <w:p>
+	    <w:r>
+	      <w:t>c1</w:t>
+	    </w:r>
+	  </w:p>
+	</w:tc>
+	<w:tc>
+	  <w:tcPr>
+	    <w:vMerge w:val="continue" />
+	  </w:tcPr>
+	  <w:p>
+	    <w:r>
+	      <w:t>c2</w:t>
+	    </w:r>
+	  </w:p>
+	</w:tc>
+	<w:tc>
+	  <w:p>
+	    <w:r>
+	      <w:t>c2</w:t>
+	    </w:r>
+	  </w:p>
+	</w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p>
+      <w:pPr>
+	<w:numPr>
+	  <w:ilvl w:val="0" />
+	  <w:numId w:val="1" />
+	</w:numPr>
+      </w:pPr>
+      <w:r>
+	<w:t>Item 1</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+	<w:numPr>
+	  <w:ilvl w:val="1" />
+	  <w:numId w:val="1" />
+	</w:numPr>
+      </w:pPr>
+      <w:r>
+	<w:t>Item 2</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+	<w:numPr>
+	  <w:ilvl w:val="2" />
+	  <w:numId w:val="1" />
+	</w:numPr>
+      </w:pPr>
+      <w:r>
+	<w:t>Item 3</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+	<w:pBdr>
+	  <w:top w:val="single" w:color="808080" w:sz="6" w:space="2" />
+	  <w:bottom w:val="single" w:color="808080" w:sz="6" w:space="2" />
+	  <w:left w:val="single" w:color="808080" w:sz="6" w:space="2" />
+	  <w:right w:val="single" w:color="808080" w:sz="6" w:space="2" />
+	</w:pBdr>
+	<w:shd w:val="clear" w:color="auto" w:fill="F0F0F0" />
+      </w:pPr>
+      <w:r>
+	<w:t>aaaaa</w:t>
+      </w:r>
+    </w:p>
+    <w:p>
+      <w:pPr>
+	<w:pBdr>
+	  <w:top w:val="single" w:color="808080" w:sz="6" w:space="2" />
+	  <w:bottom w:val="single" w:color="808080" w:sz="6" w:space="2" />
+	  <w:left w:val="single" w:color="808080" w:sz="6" w:space="2" />
+	  <w:right w:val="single" w:color="808080" w:sz="6" w:space="2" />
+	</w:pBdr>
+	<w:shd w:val="clear" w:color="auto" w:fill="F0F0F0" />
+      </w:pPr>
+      <w:r>
+	<w:t>bbbbb</w:t>
+      </w:r>
+    </w:p>
+  </w:body>
+</w:document>
