@@ -125,7 +125,7 @@
 	<w:tc>
 	  <w:p>
 	    <w:r>
-	      <w:t>b2</w:t>
+	      <w:t>b3</w:t>
 	    </w:r>
 	  </w:p>
 	</w:tc>
@@ -142,16 +142,12 @@
 	  <w:tcPr>
 	    <w:vMerge w:val="continue" />
 	  </w:tcPr>
-	  <w:p>
-	    <w:r>
-	      <w:t>c2</w:t>
-	    </w:r>
-	  </w:p>
+	  <w:p />
 	</w:tc>
 	<w:tc>
 	  <w:p>
 	    <w:r>
-	      <w:t>c2</w:t>
+	      <w:t>c3</w:t>
 	    </w:r>
 	  </w:p>
 	</w:tc>
